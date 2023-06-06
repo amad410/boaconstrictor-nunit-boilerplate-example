@@ -1,0 +1,39 @@
+# Visual Studio files
+*.sln
+*.suo
+*.user
+*.userprefs
+*.vscode
+.vs
+
+# NUnit files
+bin/
+obj/
+
+# Test results
+TestResult.xml
+TestResult/
+TestResults/
+
+# Resharper files
+_ReSharper*/
+
+# Build results
+TestResults/
+TestResult.xml
+TestResult.html
+TestResult.trx
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Misc
+Thumbs.db
+*.tmp
+*.log
+*.bak
+*.cache
+*.vspscc
+*.vssscc
+*.docstates
